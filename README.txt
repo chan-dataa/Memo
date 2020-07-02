@@ -1,1 +1,5 @@
-This Project is making Memo App.
+메모 어플리케이션
+
+기능1. 메모 저장
+기능2. 메모 로드
+기능3. 메모 삭제
