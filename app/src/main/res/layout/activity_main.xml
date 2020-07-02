@@ -11,32 +11,32 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/load_btn"
+            android:id="@+id/btn_load"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="20dp"
             android:layout_weight="1"
-            android:background="@drawable/radius"
             android:onClick="onClick"
+            android:background="@drawable/radius"
             android:text="불러오기" />
 
         <Button
-            android:id="@+id/save_btn"
+            android:id="@+id/btn_save"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="20dp"
             android:layout_weight="4"
-            android:background="@drawable/radius"
             android:onClick="onClick"
+            android:background="@drawable/radius"
             android:text="저장" />
 
         <Button
-            android:id="@+id/delete_btn"
+            android:id="@+id/btn_delete"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:background="@drawable/radius"
             android:onClick="onClick"
+            android:background="@drawable/radius"
             android:text="삭제" />
 
     </LinearLayout>
